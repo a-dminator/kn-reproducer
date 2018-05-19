@@ -1,0 +1,6 @@
+/build/
+/gradleBuild/
+/out/
+/.gradle/
+*.iml
+*.DS_Store

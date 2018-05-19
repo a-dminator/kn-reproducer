@@ -1,0 +1,12 @@
+/build/
+/out/
+/.idea/
+/.gradle/
+*.iml
+*.DS_Store
+/build/
+/DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
