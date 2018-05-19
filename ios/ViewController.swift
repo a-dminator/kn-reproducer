@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         
         let implementation = SwiftImplementation()
         let holder = NFHolder(swiftImplementation: implementation)
-        
+        holder.bar()
     }
 
 }
